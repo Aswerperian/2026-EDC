@@ -1,3 +1,6 @@
+#2026-EDC k230-lushanpi vision_code By Aswerperian
+
+
 # K230端：控制与 AI 同步主线程 + WiFi 独立推流后台线程，解决掉帧与断连闪退问题
 import os, sys, gc, socket, ustruct, time, network, _thread
 import uctypes
